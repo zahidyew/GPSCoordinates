@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GPS Coordinates</string>
+    <string name="buttonGPS">Get GPS Coordinates</string>
+    <string name="instruction">Please use this outdoor and press the button a few times until the coordinates remain constant to get the best accuracy.</string>
+</resources>
